@@ -1,0 +1,248 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://static.re-store.ru/upload/iblock/493/4936fd04175321ba45a471bbad330d19.jpg",
+      "name": "Apple iPhone 13 Pro",
+      "price": 199990,
+      "memory": [
+        "128ГБ",
+        "256ГБ"
+      ],
+      "category": 1
+    },
+    {
+      "id": 2,
+      "img": "https://static.re-store.ru/upload/iblock/b75/b75b653416606202eff585c671cf0d13.jpg",
+      "name": "Apple iMac 24 Retina 4,5K, M1",
+      "price": 229990,
+      "memory": [
+        "256ГБ"
+      ],
+      "category": 0
+    },
+    {
+      "id": 3,
+      "img": "https://static.re-store.ru/upload/iblock/3a3/3a30a544a83f3713f3c31600945ba538.jpg",
+      "name": "Apple iPhone 12",
+      "price": 66990,
+      "memory": [
+        "64ГБ",
+        "256ГБ"
+      ],
+      "category": 1
+    },
+    {
+      "id": 4,
+      "img": "https://static.re-store.ru/upload/resize_cache/iblock/100/1160_880_17f5c944b3b71591cc9304fac25365de2/10090b609107cd11f604ac9944fec78c.jpg",
+      "name": "Apple MacBook Pro 13 (M1, 2020) 16 ГБ",
+      "price": 179990,
+      "memory": [
+        "256ГБ",
+        "512ГБ",
+        "1Т"
+      ],
+      "category": 0
+    },
+    {
+      "id": 5,
+      "img": "https://static.re-store.ru/upload/iblock/c86/c86204aa12360526dd862ec51ccefc44.jpg",
+      "name": "Apple iPad Pro (2021) 12,9 Wi-Fi + Cellular",
+      "price": 259990,
+      "memory": [
+        "128ГБ",
+        "256ГБ"
+      ],
+      "category": 2
+    },
+    {
+      "id": 6,
+      "img": "https://static.re-store.ru/upload/iblock/e57/e57bfb268513865ec68f51edb2252bd9.jpg",
+      "name": "Монитор Apple Pro Display XDR Retina 6K 32",
+      "price": 540990,
+      "category": 4
+    },
+    {
+      "id": 7,
+      "img": "https://static.re-store.ru/upload/iblock/65e/65e8419e929dde29c698fab1fe993351.jpg",
+      "name": "Apple Watch Nike Series 7, 45 мм",
+      "price": 44990,
+      "category": 3
+    },
+    {
+      "id": 8,
+      "img": "https://static.re-store.ru/upload/resize_cache/iblock/139/787_862_17f5c944b3b71591cc9304fac25365de2/139520fac94060e61fbadd2b8255a65b.jpg",
+      "name": "Apple iPad Pro (2021) 12,9 Wi-Fi + Cellular",
+      "price": 199990,
+      "memory": [
+        "128ГБ",
+        "256ГБ"
+      ],
+      "category": 2
+    },
+    {
+      "id": 9,
+      "img": "https://static.re-store.ru/upload/resize_cache/iblock/f91/1160_880_17f5c944b3b71591cc9304fac25365de2/f9169cd178faa43967bc559ac31b9b8b.jpg",
+      "name": "Apple iPad mini (2021) Wi-Fi + Cellular",
+      "price": 106990,
+      "memory": [
+        "128ГБ"
+      ],
+      "category": 2
+    },
+    {
+      "id": 10,
+      "img": "https://static.re-store.ru/upload/iblock/c36/c36ea2c092f6a57b91c75b7941f0667b.jpg",
+      "name": "Apple iPhone 12",
+      "price": 72990,
+      "memory": [
+        "64ГБ",
+        "256ГБ"
+      ],
+      "category": 1
+    },
+    {
+      "id": 11,
+      "img": "https://static.re-store.ru/upload/resize_cache/iblock/884/1160_880_17f5c944b3b71591cc9304fac25365de2/8844fd3d080fe895ed31e6ab288c1773.jpg",
+      "name": "Apple iPhone 12",
+      "price": 72990,
+      "memory": [
+        "128ГБ",
+        "256ГБ"
+      ],
+      "category": 1
+    },
+    {
+      "id": 12,
+      "img": "https://static.re-store.ru/upload/resize_cache/iblock/e87/1160_880_17f5c944b3b71591cc9304fac25365de2/e87fb84ffb59a0c0d36163248eabc7f1.jpg",
+      "name": "Apple iPhone 12",
+      "price": 79990,
+      "memory": [
+        "128ГБ"
+      ],
+      "category": 1
+    },
+    {
+      "id": 13,
+      "img": "https://static.re-store.ru/upload/resize_cache/iblock/ca7/1160_880_17f5c944b3b71591cc9304fac25365de2/ca7f3399d3d92a6eac11ed365b149e0a.jpg",
+      "name": "Apple iPhone 13",
+      "price": 85990,
+      "memory": [
+        "128ГБ",
+        "256ГБ"
+      ],
+      "category": 1
+    },
+    {
+      "id": 14,
+      "img": "https://static.re-store.ru/upload/resize_cache/iblock/e88/1160_880_17f5c944b3b71591cc9304fac25365de2/e882b478726bbacf8593fcb56336d640.jpg",
+      "name": "Apple iPhone 13",
+      "price": 114990,
+      "memory": [
+        "128ГБ",
+        "256ГБ",
+        "512ГБ"
+      ],
+      "category": 1
+    },
+    {
+      "id": 15,
+      "img": "https://static.re-store.ru/upload/resize_cache/iblock/311/866_729_17f5c944b3b71591cc9304fac25365de2/31130a4b20d0a383eeb842e7b1f22bd5.jpg",
+      "name": "Apple iMac 24 Retina 4,5K, M1",
+      "price": 199990,
+      "memory": [
+        "256ГБ",
+        "1Т"
+      ],
+      "category": 0
+    },
+    {
+      "id": 16,
+      "img": "https://static.re-store.ru/upload/resize_cache/iblock/fe2/1160_880_17f5c944b3b71591cc9304fac25365de2/fe2e81cb7daa1bfb4db92b97be3131a3.jpg",
+      "name": "Apple iPhone 13 Pro Max",
+      "price": 184990,
+      "memory": [
+        "128ГБ",
+        "256ГБ",
+        "512ГБ",
+        "1T"
+      ],
+      "category": 1
+    },
+    {
+      "id": 17,
+      "img": "https://static.re-store.ru/upload/resize_cache/iblock/44c/1160_880_17f5c944b3b71591cc9304fac25365de2/44c5b535217c2a9b6c1eacb6a4c50fd6.jpg",
+      "name": "Apple iPad Air Wi-Fi + Cellular",
+      "price": 140990,
+      "memory": [
+        "128ГБ"
+      ],
+      "category": 2
+    },
+    {
+      "id": 18,
+      "img": "https://static.re-store.ru/upload/resize_cache/iblock/d34/1160_880_17f5c944b3b71591cc9304fac25365de2/d345778116cbfe1fbbbcbeeefa13d107.jpg",
+      "name": "Apple iPhone 13 Pro",
+      "price": 199990,
+      "memory": [
+        "128ГБ",
+        "256ГБ",
+        "512ГБ",
+        "1T"
+      ],
+      "category": 1
+    },
+    {
+      "id": 19,
+      "img": "https://static.re-store.ru/upload/iblock/2d0/2d007b7d6b4523e2548865fef80b84fd.jpg",
+      "name": "Клавиатура Apple Magic Keyboard с Touch ID",
+      "price": 21990,
+      "category": 4
+    }
+  ],
+  "cart": [
+    {
+      "id": 3,
+      "img": "https://static.re-store.ru/upload/iblock/3a3/3a30a544a83f3713f3c31600945ba538.jpg",
+      "name": "Apple iPhone 12",
+      "price": 66990,
+      "memory": "256ГБ",
+      "category": 1
+    },
+    {
+      "id": 2,
+      "img": "https://static.re-store.ru/upload/iblock/b75/b75b653416606202eff585c671cf0d13.jpg",
+      "name": "Apple iMac 24 Retina 4,5K, M1",
+      "price": 229990,
+      "memory": "256ГБ",
+      "category": 0
+    },
+    {
+      "id": 7,
+      "img": "https://static.re-store.ru/upload/iblock/65e/65e8419e929dde29c698fab1fe993351.jpg",
+      "name": "Apple Watch Nike Series 7, 45 мм",
+      "price": 44990,
+      "category": 3,
+      "memory": "-"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 6,
+      "img": "https://static.re-store.ru/upload/iblock/e57/e57bfb268513865ec68f51edb2252bd9.jpg",
+      "name": "Монитор Apple Pro Display XDR Retina 6K 32",
+      "price": 540990,
+      "category": 4
+    },
+    {
+      "id": 2,
+      "img": "https://static.re-store.ru/upload/iblock/b75/b75b653416606202eff585c671cf0d13.jpg",
+      "name": "Apple iMac 24 Retina 4,5K, M1",
+      "price": 229990,
+      "memory": [
+        "256ГБ"
+      ],
+      "category": 0
+    }
+  ]
+}

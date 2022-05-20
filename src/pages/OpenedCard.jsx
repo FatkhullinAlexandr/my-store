@@ -3,10 +3,11 @@ import React from 'react';
 import { useDispatch } from 'react-redux';
 import { useParams } from 'react-router-dom';
 
-import { AppContext } from '../App';
-
 import { onClickAddToCart } from '../redux/actions/cart';
 import { onClickFavorite, onClickRemoveFavorite } from '../redux/actions/favorites';
+
+import { AppContext } from '../App';
+import InfoModal from '../components/InfoModal';
 
 function OpenedCard() {
     const dispatch = useDispatch();
@@ -15,6 +16,7 @@ function OpenedCard() {
     const [product, setProduct] = React.useState({});
     const [activeMemory, setActiveMemory] = React.useState(null);
     const [memory, setMemory] = React.useState('');
+    const [modalOpened, setModalOpened] = React.useState(false);
     const { cartItems, favoriteItems, correctedPrice } = React.useContext(AppContext);
 
     const addedProduct = {
@@ -54,9 +56,7 @@ function OpenedCard() {
         e.preventDefault();
 
         if (product.memory) {
-            activeMemory !== null
-                ? onClickAddToCart(dispatch, addedProduct)
-                : alert('Выберете объем памяти');
+            activeMemory !== null ? onClickAddToCart(dispatch, addedProduct) : setModalOpened(true);
         } else {
             onClickAddToCart(dispatch, addedProduct);
         }
@@ -128,6 +128,11 @@ function OpenedCard() {
                     </div>
                 </div>
             </div>
+            <InfoModal
+                open={modalOpened}
+                setOpen={setModalOpened}
+                text={'Пожалуйста, выберете объем памяти'}
+            />
         </div>
     );
 }

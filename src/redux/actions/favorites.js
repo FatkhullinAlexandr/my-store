@@ -20,7 +20,7 @@ export const onClickFavorite = async (dispatch, item) => {
         const { data } = await axios.post('http://localhost:3001/favorites', item);
         dispatch(addToFavorites(data));
     } catch (error) {
-        alert('Не удалось добавить в избранные');
+        console.error('Не удалось добавить этот товар в избранные');
     }
 };
 

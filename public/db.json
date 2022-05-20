@@ -202,28 +202,28 @@
   ],
   "cart": [
     {
-      "id": 3,
-      "img": "https://static.re-store.ru/upload/iblock/3a3/3a30a544a83f3713f3c31600945ba538.jpg",
+      "id": 1,
+      "img": "https://static.re-store.ru/upload/iblock/493/4936fd04175321ba45a471bbad330d19.jpg",
+      "name": "Apple iPhone 13 Pro",
+      "price": 199990,
+      "memory": "128ГБ",
+      "category": 1
+    },
+    {
+      "id": 10,
+      "img": "https://static.re-store.ru/upload/iblock/c36/c36ea2c092f6a57b91c75b7941f0667b.jpg",
       "name": "Apple iPhone 12",
-      "price": 66990,
+      "price": 72990,
       "memory": "256ГБ",
       "category": 1
     },
     {
-      "id": 2,
-      "img": "https://static.re-store.ru/upload/iblock/b75/b75b653416606202eff585c671cf0d13.jpg",
-      "name": "Apple iMac 24 Retina 4,5K, M1",
-      "price": 229990,
-      "memory": "256ГБ",
-      "category": 0
-    },
-    {
-      "id": 7,
-      "img": "https://static.re-store.ru/upload/iblock/65e/65e8419e929dde29c698fab1fe993351.jpg",
-      "name": "Apple Watch Nike Series 7, 45 мм",
-      "price": 44990,
-      "category": 3,
-      "memory": "-"
+      "id": 14,
+      "img": "https://static.re-store.ru/upload/resize_cache/iblock/e88/1160_880_17f5c944b3b71591cc9304fac25365de2/e882b478726bbacf8593fcb56336d640.jpg",
+      "name": "Apple iPhone 13",
+      "price": 114990,
+      "memory": "512ГБ",
+      "category": 1
     }
   ],
   "favorites": [
@@ -243,6 +243,17 @@
         "256ГБ"
       ],
       "category": 0
+    },
+    {
+      "id": 13,
+      "img": "https://static.re-store.ru/upload/resize_cache/iblock/ca7/1160_880_17f5c944b3b71591cc9304fac25365de2/ca7f3399d3d92a6eac11ed365b149e0a.jpg",
+      "name": "Apple iPhone 13",
+      "price": 85990,
+      "memory": [
+        "128ГБ",
+        "256ГБ"
+      ],
+      "category": 1
     }
   ]
 }

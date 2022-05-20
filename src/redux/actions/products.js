@@ -14,6 +14,6 @@ export const fetchProducts = async (dispatch, category, sortBy) => {
         );
         dispatch(setProducts(data));
     } catch (error) {
-        alert('Не удалось загрузить товары');
+        console.error('Не удалось загрузить товары');
     }
 };

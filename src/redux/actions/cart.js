@@ -15,7 +15,7 @@ export const onClickAddToCart = async (dispatch, item) => {
         const { data } = await axios.post('http://localhost:3001/cart', item);
         dispatch(addToCart(data));
     } catch (error) {
-        alert('Не удалось добавить в корзину');
+        console.error('Не удалось добавить этот товар в корзину');
     }
 };
 

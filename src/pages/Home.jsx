@@ -29,7 +29,7 @@ function Home() {
     return (
         <div className="home">
             <div className="home__banner">
-                <img src="./img/banner.png" alt="Картинка" />
+                <img src="./banner.png" alt="Картинка" />
                 <div className="home__banner-info info-banner">
                     <div className="info-banner__iphone">
                         <svg
